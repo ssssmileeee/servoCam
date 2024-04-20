@@ -13,4 +13,5 @@ I used resistors of 1k and 3k, which safely allow reading the signal level up to
 You can calculate the resistors for the voltage divider based on the resistances you have available using this website: https://ohmslawcalculator.com/voltage-divider-calculator
 
 Check my DIY 3d models of motorized cams:
-https://www.thingiverse.com/thing:5745347
+https://www.thingiverse.com/thing:5745347 - Universal motorized camera
+https://www.thingiverse.com/thing:6587076 - Motorized camera for volvo S60 S80 P2
