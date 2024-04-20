@@ -3,9 +3,9 @@
 Control diy motorized rear-view camera in your car:
 <img src="img/cam1.jpg"/>
 
-This project was designed for Arduino Pro Mini, but you can use any other controller with at least one analog input.
+This project was designed for Arduino Pro Micro, but you can use any other controller with at least one analog input.
 
-Connection diagram using Arduino Pro Mini as an example:
+Connection diagram using Arduino Pro Micro as an example:
 <img src="img/layout.png"/>
 
 As can be seen from the above diagram, a voltage divider is used with two resistors to read the signal from the reverse lamp. 
